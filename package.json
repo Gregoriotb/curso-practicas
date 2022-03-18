@@ -1,0 +1,19 @@
+{
+  "name": "curso-practicas",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "figuras.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gregoriotb/curso-practicas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gregoriotb/curso-practicas/issues"
+  },
+  "homepage": "https://github.com/Gregoriotb/curso-practicas#readme"
+}
